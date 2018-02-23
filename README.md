@@ -1,2 +1,2 @@
 # json_validate_for_empty_fields
-Simple json validation for empty fieldf
+Shows an empty fields in json array
